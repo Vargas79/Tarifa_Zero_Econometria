@@ -1,0 +1,7 @@
+"Metodo","Indicador","ATT","SE","p_valor","IC_inf","IC_sup"
+"1. DiD Clássico (TWFE)","Mortalidade",-0.0476,0.3505,0.8919,-0.7346,0.6394
+"1. DiD Clássico (TWFE)","Morbidade",5.2796,5.2875,0.3181,-5.0839,15.6431
+"2. PSM + DiD","Mortalidade",0.0116,0.4035,0.9771,-0.7792,0.8024
+"2. PSM + DiD","Morbidade",3.7131,5.4575,0.497,-6.9835,14.4098
+"3. Callaway & Sant'Anna (2021)","Mortalidade",-2.4715,1.0102,NA,-4.4515,-0.4916
+"3. Callaway & Sant'Anna (2021)","Morbidade",11.168,16.4428,NA,-21.0598,43.3958

@@ -1,0 +1,4 @@
+"Metodo","Indicador","ATT","SE","p_valor","IC_inf","IC_sup"
+"1. DiD Clássico","Mortalidade",-0.2648,0.4676,0.5712,-1.1814,0.6517
+"1. DiD Clássico","Morbidade",-0.604,7.1212,0.9324,-14.5615,13.3536
+"3. Callaway & Sant'Anna","Mortalidade",-2.5678,0.9723,NA,-4.4735,-0.6622
